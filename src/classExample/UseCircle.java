@@ -3,10 +3,14 @@ package classExample;
 public class UseCircle {
   public static void main(String[] args) {
     Circle circle = new Circle(20.0);
-    System.out.println("circle.getRadius() = " + circle.getRadius());
+    System.out.println("circle = " + circle);
 
     Circle circle2 = new Circle(30.0);
-    System.out.println("circle2.getRadius() = " + circle2.getRadius());
+    System.out.println("circle2 = " + circle2);
+
+    circle = circle2;
+    System.out.println("circle = " + circle);
+    System.out.println("circle2 = " + circle2);
 
     // 생성자를 만들경우, 기본 생성자는 생성되지 않음
 
