@@ -36,15 +36,9 @@ public class challengeCh5_5 {
     }
 
     for (int i = 0; i < 10; i++) {
-      if (i > 0) {
-        System.out.print(i + "0~" + i + "9 :");
-      } else {
-        System.out.print("0~9 :");
-      }
-      if (output[i] > 0) {
-        for (int j = 0; j < output[i]; j++) {
+      System.out.printf("%d~%d :", i * 10, i * 10 + 9);
+      for (int j = 0; j < output[i]; j++) {
           System.out.print("*");
-        }
       }
       System.out.println();
     }
