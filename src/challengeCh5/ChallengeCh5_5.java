@@ -22,7 +22,7 @@ import java.util.Scanner;
  * 90~99:*
  */
 
-public class challengeCh5_5 {
+public class ChallengeCh5_5 {
   public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
     int input = 0;

@@ -7,7 +7,7 @@ package challengeCh5;
  * static int countChar(String s, char c)
  */
 
-public class challengeCh5_1 {
+public class ChallengeCh5_1 {
   public static void main(String[] args) {
     System.out.println(countChar("HeLlo", 'l'));
   }

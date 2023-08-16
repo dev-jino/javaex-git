@@ -14,7 +14,7 @@ import java.util.Scanner;
  * URL을 입력하세요: bye
  */
 
-public class challengeCh5_4 {
+public class ChallengeCh5_4 {
   public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
 
