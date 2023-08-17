@@ -1,4 +1,4 @@
-package challengeCh5;
+package challengeCh05;
 
 public enum Month {
   JAN(1), FEB(2), MAR(3), APR(4), MAY(5), JUN(6),

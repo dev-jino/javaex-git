@@ -1,4 +1,4 @@
-package challengeCh5;
+package challengeCh05;
 
 /**
  * 3년간 분기별 이자율에 대한 연평균 이자율과 평균 이자율을 출력하는 예제이다.

@@ -1,4 +1,4 @@
-package challengeCh4;
+package challengeCh04;
 
 public class CircleTest {
   public static void main(String[] args) {

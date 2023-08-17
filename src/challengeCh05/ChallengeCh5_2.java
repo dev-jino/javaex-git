@@ -1,4 +1,4 @@
-package challengeCh5;
+package challengeCh05;
 
 /**
  * 다음 코드를 실행하면 9, 5, 14를 두 번 출력한다.

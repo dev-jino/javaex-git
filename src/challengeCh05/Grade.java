@@ -1,4 +1,4 @@
-package challengeCh5;
+package challengeCh05;
 
 public enum Grade {
   A("Excellent"), B("Good"), C("SoSo");

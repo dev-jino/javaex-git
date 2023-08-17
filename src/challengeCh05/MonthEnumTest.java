@@ -1,4 +1,4 @@
-package challengeCh5;
+package challengeCh05;
 
 public class MonthEnumTest {
   public static void main(String[] args) {
